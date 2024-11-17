@@ -32,7 +32,7 @@
       "discord": "nonchalantwombat"
     }
   ],
-  "url": "",
-  "download": "",
-  "manifest": ""
+  "url": "https://github.com/NonchalantWombat/Custom-Character-Sheets-5e/tree/main",
+  "download": "https://github.com/NonchalantWombat/Custom-Character-Sheets-5e/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/NonchalantWombat/Custom-Character-Sheets-5e/refs/heads/main/module.json"
 }
