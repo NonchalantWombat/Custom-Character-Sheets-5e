@@ -1,0 +1,38 @@
+{
+  "id": "dnd5e-custom-actor-sheets",
+  "title": "DnD5e Custom Actor Sheets",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "styles": [
+    "styles/customcss.css"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {          
+          "minimum": "4.0.0",
+          "verified": "4.1.1"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/custom-actor-sheets-5e-script.mjs"
+  ],
+  "description": "This simple module allows for selecting different colors and background art for the D&amp;D 5e system for actor sheets. Use it to customize the visual appearance of your character sheets for maximum visual appeal!",
+  "authors": [
+    {
+      "name": "NonchalantWombat",
+      "url": "https://github.com/NonchalantWombat",
+      "discord": "nonchalantwombat"
+    }
+  ],
+  "url": "",
+  "download": "",
+  "manifest": ""
+}

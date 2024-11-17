@@ -1,0 +1,26 @@
+.hue-rotate-icon {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  margin-left: 5px;
+  cursor: pointer;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  border: none;
+  padding: 0;
+}
+
+.hue-rotate-icon:hover {
+  opacity: 0.8;
+}
+
+.hue-rotate-button {
+  color: var(--color-primary);
+  font-size: 14px;
+}
+
+.hue-rotate-button:hover {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
